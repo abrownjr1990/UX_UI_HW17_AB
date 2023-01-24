@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../17.2-activities"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Code"
+	}
+}
